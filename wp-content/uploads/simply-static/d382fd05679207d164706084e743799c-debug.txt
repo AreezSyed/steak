@@ -8424,3 +8424,8 @@
 [2025-08-09 09:51:28] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
 [2025-08-09 09:51:34] [class-ss-archive-creation-job.php:474] Error: (1) Maximum execution time of 120 seconds exceeded in <b>D:\xampp\htdocs\steaks\wp-includes\class-wpdb.php</b> on line <b>2351</b>
 [2025-08-09 09:51:34] [class-ss-archive-creation-job.php:414] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>D:\xampp\htdocs\steaks\wp-includes\class-wpdb.php</b> on line <b>2351</b>
+[2025-08-09 10:03:40] [class-ss-admin-settings.php:802] Received request to cancel static archive generation
+[2025-08-09 10:03:40] [class-ss-archive-creation-job.php:414] Status message: [cancel] Export cancelled.
+[2025-08-09 10:03:40] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2025-08-09 10:03:40] [class-ss-wrapup-task.php:23] Deleting temporary files
+[2025-08-09 10:03:40] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
